@@ -1,0 +1,38 @@
+{
+  "total_events": 50,
+  "total_requests": 7,
+  "completed_requests": 7,
+  "error_count": 0,
+  "error_rate": 0.0,
+  "latency_ms": {
+    "mean": 20.73,
+    "median": 21.21,
+    "p95": 40.93,
+    "max": 40.93
+  },
+  "span_latency_mean_ms": {
+    "planner": 0.91,
+    "tool_memory_context": 9.5,
+    "tool_rag_search": 3.79,
+    "full_request": 20.73
+  },
+  "tool_usage": {
+    "tool_memory_context": 6,
+    "tool_rag_search": 6
+  },
+  "error_types": {},
+  "anomalies": {
+    "latency_threshold_ms": 3000.0,
+    "slow_request_count": 0,
+    "slow_traces": []
+  },
+  "resource_usage": {
+    "max_memory_mb": 64.88,
+    "max_cpu_percent": 0.0
+  },
+  "quality_metrics": {
+    "mean_relevance_score": 0.575,
+    "consistency_score": 1.0,
+    "evaluated_questions": 4
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "short_term": [
+    {
+      "timestamp": "2026-06-19T15:48:35",
+      "role": "usuario",
+      "content": "¿Cómo se debe actuar si no hay evidencia suficiente?"
+    },
+    {
+      "timestamp": "2026-06-19T15:48:35",
+      "role": "agente",
+      "content": "[Modo sin LLM — No se encontró GITHUB_TOKEN ni OPENAI_API_KEY. Agrega tu token en el archivo .env para usar el LLM real.]\nBasado en los documentos internos de HealthTech: Evidencia sólida: 3 fragmentos documentales recuperados con alta relevancia. La respuesta completa requiere conexión al LLM. Configura GITHUB_TOKEN en el archivo .env para habilitar respuestas generadas por IA."
+    },
+    {
+      "timestamp": "2026-06-19T15:48:35",
+      "role": "usuario",
+      "content": "Resume el proceso de soporte a pacientes."
+    },
+    {
+      "timestamp": "2026-06-19T15:48:35",
+      "role": "agente",
+      "content": "[Modo sin LLM — No se encontró GITHUB_TOKEN ni OPENAI_API_KEY. Agrega tu token en el archivo .env para usar el LLM real.]\nBasado en los documentos internos de HealthTech: Evidencia sólida: 3 fragmentos documentales recuperados con alta relevancia. La respuesta completa requiere conexión al LLM. Configura GITHUB_TOKEN en el archivo .env para habilitar respuestas generadas por IA."
+    },
+    {
+      "timestamp": "2026-06-19T15:48:35",
+      "role": "usuario",
+      "content": "¿Qué hace el sistema HealthTech RAG?"
+    },
+    {
+      "timestamp": "2026-06-19T15:48:35",
+      "role": "agente",
+      "content": "[Modo sin LLM — No se encontró GITHUB_TOKEN ni OPENAI_API_KEY. Agrega tu token en el archivo .env para usar el LLM real.]\nBasado en los documentos internos de HealthTech: Evidencia sólida: 3 fragmentos documentales recuperados con alta relevancia. La respuesta completa requiere conexión al LLM. Configura GITHUB_TOKEN en el archivo .env para habilitar respuestas generadas por IA."
+    },
+    {
+      "timestamp": "2026-06-19T15:48:35",
+      "role": "usuario",
+      "content": "¿Qué hace el sistema HealthTech RAG?"
+    },
+    {
+      "timestamp": "2026-06-19T15:48:35",
+      "role": "agente",
+      "content": "[Modo sin LLM — No se encontró GITHUB_TOKEN ni OPENAI_API_KEY. Agrega tu token en el archivo .env para usar el LLM real.]\nBasado en los documentos internos de HealthTech: Evidencia sólida: 3 fragmentos documentales recuperados con alta relevancia. La respuesta completa requiere conexión al LLM. Configura GITHUB_TOKEN en el archivo .env para habilitar respuestas generadas por IA."
+    },
+    {
+      "timestamp": "2026-06-19T15:48:35",
+      "role": "usuario",
+      "content": "¿Qué hace el sistema HealthTech RAG?"
+    },
+    {
+      "timestamp": "2026-06-19T15:48:35",
+      "role": "agente",
+      "content": "[Modo sin LLM — No se encontró GITHUB_TOKEN ni OPENAI_API_KEY. Agrega tu token en el archivo .env para usar el LLM real.]\nBasado en los documentos internos de HealthTech: Evidencia sólida: 3 fragmentos documentales recuperados con alta relevancia. La respuesta completa requiere conexión al LLM. Configura GITHUB_TOKEN en el archivo .env para habilitar respuestas generadas por IA."
+    },
+    {
+      "timestamp": "2026-06-19T15:50:15",
+      "role": "usuario",
+      "content": "¿Qué hace HealthTech?"
+    },
+    {
+      "timestamp": "2026-06-19T15:50:15",
+      "role": "agente",
+      "content": "[Modo sin LLM — No se encontró GITHUB_TOKEN ni OPENAI_API_KEY. Agrega tu token en el archivo .env para usar el LLM real.]\nBasado en los documentos internos de HealthTech: Evidencia sólida: 3 fragmentos documentales recuperados con alta relevancia. La respuesta completa requiere conexión al LLM. Configura GITHUB_TOKEN en el archivo .env para habilitar respuestas generadas por IA."
+    }
+  ],
+  "long_term": {}
+}

@@ -1,0 +1,14 @@
+flowchart LR
+    U[Usuario] --> A[Agente HealthTech]
+    A --> S[Validación de seguridad]
+    S --> P[Planner]
+    P --> M[Memoria]
+    P --> R[RAG local]
+    P --> L[LLM GitHub Models]
+    A --> O[Observabilidad]
+    O --> LOG[Logs JSONL]
+    O --> MET[Métricas]
+    O --> AUD[Audit Trail]
+    LOG --> D[Dashboard Streamlit]
+    MET --> D
+    AUD --> D

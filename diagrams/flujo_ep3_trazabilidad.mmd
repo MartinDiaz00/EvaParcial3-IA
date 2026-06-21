@@ -1,0 +1,14 @@
+sequenceDiagram
+    participant U as Usuario
+    participant A as Agente
+    participant O as Observabilidad
+    participant T as Herramientas
+    participant L as LLM
+    U->>A: Consulta
+    A->>O: Crear trace_id
+    A->>O: Log full_request start
+    A->>T: Ejecutar herramientas con span_id
+    T->>O: Log duración y estado
+    A->>L: Generar respuesta
+    A->>O: Log full_request end
+    O->>O: Calcular métricas y anomalías
